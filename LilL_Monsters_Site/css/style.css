@@ -3,11 +3,11 @@ html {
 }
 
 .site-nav {
-  z-index: 20;
+  z-index: 25;
 }
 
 .site-nav.in-body {
-  background: rgb(99, 64, 145, 0.9);
+  background: rgb(100, 64, 145, 0.9);
   animation: clear 1.25s forwards;
   opacity: 0;
 }
